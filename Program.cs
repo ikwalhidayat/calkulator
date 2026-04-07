@@ -1,4 +1,6 @@
-﻿int a = 10;
+﻿// NAMA : L.D. IKWAL HIDAYAT NIM: 25.21.1610
+
+int a = 10;
 int b = 11;
 
 static int Penjumlahan(int a, int b)
